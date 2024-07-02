@@ -7,5 +7,3 @@ services:
     ports:
       - 27017:27017
     restart: unless-stopped
-
-
